@@ -1,2 +1,2 @@
 # parsing-pcap-for-flows
-解析pcap，根据五元组分成一个个流
+parsing pcap files, divide packets into streams according to five tuples(src ip, dst ip, src port, dst port, protocal).
